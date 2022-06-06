@@ -14,6 +14,7 @@ const refs = {
 }
 
 const KEY = '27631880-b0639dc61f111cbc90b791bd4';
+const KEY = '27877222-c441ef02ef280323fe77791ee';
 const BASE_URL = "https://pixabay.com/api/";
 
 let page = 1;
