@@ -1,5 +1,5 @@
-{
-  "name": "parcel-project-template",
+ {
+ "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -26,7 +26,8 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "flatpickr": "^4.6.13",
-    "notiflix": "^3.2.5"
+    "axios": "^0.27.2",
+    "notiflix": "^3.2.5",
+    "simplelightbox": "^2.10.3"
   }
 }
