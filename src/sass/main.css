@@ -19,8 +19,6 @@ body {
 
 .button {
   color: white;
-  background-image: -webkit-gradient(linear, right top, left bottom, from(#33ccff), to(#ff99cc));
-  background-image: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
   background-size: 200% auto;
   -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
           box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
