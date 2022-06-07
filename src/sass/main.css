@@ -14,8 +14,7 @@
 body {
   text-align: center;
   height: 600px;
-  background: -webkit-gradient(linear, right top, left bottom, from(#33ccff), to(#ff99cc));
-  background: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
+  background: #33ccff;
 }
 
 .button {
@@ -59,24 +58,6 @@ body {
   -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
           box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   border-radius: 10px;
-  background-image: -webkit-gradient(linear, right top, left bottom, from(#33ccff), to(#ff99cc));
-  background-image: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
-}
-
-img {
-  width: 100%;
-  height: 200px;
-  -webkit-transition: -webkit-transform 0.25s;
-  transition: -webkit-transform 0.25s;
-  transition: transform 0.25s;
-  transition: transform 0.25s, -webkit-transform 0.25s;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
-
-img:hover {
-  -webkit-transform: scale(2);
-          transform: scale(2);
 }
 
 .info-item {
